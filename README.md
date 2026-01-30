@@ -7,6 +7,7 @@ Blog
 https://rajashree.hashnode.dev/git-for-beginners-basics-and-essential-commands
 
 2.Understanding Network Devices
+
 file:///C:/Users/Pravin/OneDrive/Desktop/Understanding%20Network%20Devices.html
 
 
